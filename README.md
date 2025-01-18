@@ -1,3 +1,3 @@
-# To Edit
+# Check out the project here, this read-me will be edited soon
 
-I will edit this soon
+https://marischeduler.netlify.app/
