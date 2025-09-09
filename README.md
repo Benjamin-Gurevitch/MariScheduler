@@ -1,8 +1,12 @@
-# React + Vite
+# MariScheduler
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**MariScheduler** is a web-based application designed to help students at Marianopolis College build their ideal academic schedules.
 
-Currently, two official plugins are available:
+### Live Application
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can access the live version of the application here: **[marischeduler.netlify.app](https://marischeduler.netlify.app/)**
+
+### Features
+- Intuitive, modern interface
+- Automatic schedule generation with customizable preferences (e.g., free days, time preferences)
+- Conflict detection and management
